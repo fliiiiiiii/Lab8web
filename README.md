@@ -1,6 +1,10 @@
 # Lab8Web - Praktikum 8: PHP dan Database MySQL  
 ### Aplikasi CRUD Sederhana Data Barang (PHP Native + MySQL)
 
+**Nama**           : Rafli Anugrah Ramadhan  
+**nim**            : 312410351  
+**kelas**          : TI.24,A4  
+
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-8.0%2B-blue?style=for-the-badge&logo=php"/>
   <img src="https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql"/>
